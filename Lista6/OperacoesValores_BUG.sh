@@ -1,13 +1,6 @@
 #!/bin/bash
 
 #########################################################################
-# Exercício 1 - DEBUG							#
-#									#
-# Nome: OperacoesValores_BUG.sh						#
-#									#
-# Autor: Ricardo Prudenciato (ricardo@linuxsemfronteiras.com.br)	#
-# Data: DD/MM/AAAA							#
-#									#
 # Descrição: O script recebe dois valores inseridos pelo usuário	#				
 #	     e exibe um menu para que uma das operações básicas 	#
 #	     seja realizada.						#

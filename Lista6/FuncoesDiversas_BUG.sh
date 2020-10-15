@@ -1,13 +1,6 @@
 #!/bin/bash
 
 #########################################################################
-# Exercício 2 - DEBUG                                                   #
-#									#	
-# Nome: FuncoesDiversas_BUG.sh						#
-#									#
-# Autor: Ricardo Prudenciato (ricardo@linuxsemfronteiras.com.br)	#
-# Data: DD/MM/AAAA							#
-#									#
 # Descrição: Script com diversas funções que fazem			#
 # tratamentos com datas						 	#
 #									#
